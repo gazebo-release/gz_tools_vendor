@@ -18,7 +18,7 @@
   <depend>gz_cmake_vendor</depend>
 
   <!-- Depend on the package we are vendoring to allow building it from source -->
-  <build_depend condition="$GZ_BUILD_FROM_SOURCE != ''">gz-tools2</build_depend>
+  <depend condition="$GZ_BUILD_FROM_SOURCE != ''">gz-tools2</depend>
 
   <test_depend>ament_cmake_copyright</test_depend>
   <test_depend>ament_cmake_lint_cmake</test_depend>
