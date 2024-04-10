@@ -2,6 +2,11 @@
 Changelog for package gz_tools_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Add support for the `<pkg>::<pkg>` and `<pkg>::all` targets, fix sourcing of dsv files
+* Contributors: Addisu Z. Taddese
+
 0.0.2 (2024-03-28)
 ------------------
 * Update vendored package version
