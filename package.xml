@@ -25,7 +25,6 @@
   <buildtool_depend>ament_cmake_vendor_package</buildtool_depend>
 
   <exec_depend>ruby</exec_depend>
-  <test_depend>rubocop</test_depend>
   <depend>gz_cmake_vendor</depend>
 
   <!-- Depend on the package we are vendoring to allow building it from source -->
