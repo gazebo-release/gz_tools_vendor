@@ -2,8 +2,8 @@
 Changelog for package gz_tools_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.5 (2024-10-29)
+------------------
 * Remove rubocop from our dependencies (`#3 <https://github.com/gazebo-release/gz_tools_vendor/issues/3>`_)
   This also includes changes related to version prefixes.
 * Contributors: Addisu Z. Taddese
