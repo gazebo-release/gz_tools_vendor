@@ -2,8 +2,8 @@
 Changelog for package gz_tools_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.2.0 (2025-09-04)
+------------------
 * Bump version to 2.0.3 (`#12 <https://github.com/gazebo-release/gz_tools_vendor/issues/12>`_)
 * Contributors: Carlos Agüero
 
