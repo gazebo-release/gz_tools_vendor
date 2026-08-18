@@ -12,7 +12,7 @@
   -->
   <version>0.3.0</version>
   <description>
-    Vendor package for: gz-tools2 2.0.3
+    Vendor package for: gz-tools2 2.0.4
 
     Gazebo Tools: Entrypoint to Gazebo's command line interface
   </description>
