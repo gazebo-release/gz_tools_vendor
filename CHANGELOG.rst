@@ -2,8 +2,8 @@
 Changelog for package gz_tools_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.3.2 (2026-08-25)
+------------------
 * Upgrade to Rotary prerelease (`#17 <https://github.com/gazebo-release/gz_tools_vendor/issues/17>`_)
 * Contributors: Addisu Z. Taddese
 
